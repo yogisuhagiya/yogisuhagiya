@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yogi Suhagiya</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<img align="right" all="coding" width="400" scr="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" all="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogisuhagiya&label=Profile%20views&color=0e75b6&style=flat" alt="yogisuhagiya" /> </p>
 
